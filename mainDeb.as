@@ -148,7 +148,7 @@ package{
 		//-----------------------setup----------------------
 		private function staticSetup():void
 		{
-			//----------boob----------
+			//--------------------
 			if(sharedData.data.shake==null){sharedData.data.shake=true};
 			if(sharedData.data.inGameText==null){sharedData.data.inGameText=2};
 			if(sharedData.data.music==null){sharedData.data.music=true};
